@@ -1,0 +1,14 @@
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\bin\Debug\Ev Motor & Battery CalCulator.exe.config
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\bin\Debug\Ev Motor & Battery CalCulator.exe
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\bin\Debug\Ev Motor & Battery CalCulator.pdb
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.csproj.AssemblyReference.cache
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev_Motor___Battery_CalCulator.Form1.resources
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev_Motor___Battery_CalCulator.Properties.Resources.resources
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.csproj.GenerateResource.cache
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.csproj.CoreCompileInputs.cache
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.exe
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.pdb
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\bin\Debug\Ev Motor & Battery CalCulator.exe.manifest
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\bin\Debug\Ev Motor & Battery CalCulator.application
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.exe.manifest
+C:\Users\amary\Downloads\riverse mind\Ev Motor & Battery CalCulator\Ev Motor & Battery CalCulator\obj\Debug\Ev Motor & Battery CalCulator.application

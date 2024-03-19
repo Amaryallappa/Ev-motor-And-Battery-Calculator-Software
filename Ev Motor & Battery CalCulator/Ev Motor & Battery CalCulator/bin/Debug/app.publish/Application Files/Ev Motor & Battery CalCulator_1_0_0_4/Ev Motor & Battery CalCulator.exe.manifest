@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Ev Motor &amp; Battery CalCulator.exe" version="1.0.0.4" publicKeyToken="582489cf9c74d9fa" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="travel_car_alfaromeo_1742.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ev Motor &amp; Battery CalCulator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ev Motor &amp; Battery CalCulator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ev Motor &amp; Battery CalCulator.exe" size="151520">
+      <assemblyIdentity name="Ev Motor &amp; Battery CalCulator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zi9IjD9DGPQeAKaeZHrMle/Sm6NnkqzGHngMjXGdQl4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Ev Motor &amp; Battery CalCulator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="travel_car_alfaromeo_1742.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0jGGvLxZOk5wFJ0uQYcwBdGZSEhozKK0lIiVtqqcDXo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-NR178NH\amary" issuerKeyHash="6377e7663739c4572e0e10d0ff7fefedb49edb56" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/M8QuU2Mi9Fxhw2xSXec4F/zTHYjrRS5kCowA3VYCd4=</DigestValue></Reference></SignedInfo><SignatureValue>X5iXNhe/QDSe5YHSd1ETGBI2HHdaMLUB3rJwEE5/I1f/PFf7UEMK3lDLpTvrfJboUdjQTb/ln06BFXqRcm4fCOzSNa7gyGkXEzMl0Ow0KL7zeE+VUIMY33Io053LESpXbhDHYA39Q4IemFbruqFRjnSBwkQqEJLPRa4A0DjFSGQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uZbudbjSotBsL/JFSTJCVGUQhIsVb9LbjscqvSjn97zd6XwdlkFsGwcChXhUmPzAtt3ksVvrbfD/jy0WAKvNHpte9kcZbS7QUVQbD9lr4bDdDZOyyFH82wD82k9sxt8Q6NzlhJjuAD3+y2H66ktKnqVwowaaSsRG6UTLJ8QqGHE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="de09587503302a90b914ad23764cf35fe09c7749b10d8771d18b8c4db910cffc" Description="" Url=""><as:assemblyIdentity name="Ev Motor &amp; Battery CalCulator.exe" version="1.0.0.4" publicKeyToken="582489cf9c74d9fa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-NR178NH\amary</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jWRZ0uvdF+xepoHJwV+ND4RTyf2u9MRDJrwVQrhJa8g=</DigestValue></Reference></SignedInfo><SignatureValue>LCG8VQDtqkKbfqP9MsUr0cryqmVngqBaI6uWT4KeuwDU30mGX8rQCfRSjKHUl6EPZOHUZilZ7kzLk7fan/or2QGAGfsbYtWj7IyfwyZEnoYfw//4L+5Zgw83eh3FP4YXCc24VJpTJxEw63ujn5RDWaaRZGSu8JJTrZ3ehtz2aas=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uZbudbjSotBsL/JFSTJCVGUQhIsVb9LbjscqvSjn97zd6XwdlkFsGwcChXhUmPzAtt3ksVvrbfD/jy0WAKvNHpte9kcZbS7QUVQbD9lr4bDdDZOyyFH82wD82k9sxt8Q6NzlhJjuAD3+y2H66ktKnqVwowaaSsRG6UTLJ8QqGHE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQN/ppaHXkv59OwOxOj8dR1zANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE4AUgAxADcAOABOAEgAXABhAG0AYQByAHkwHhcNMjQwMzE5MjE1MTQzWhcNMjUwMzIwMDM1MTQzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE4AUgAxADcAOABOAEgAXABhAG0AYQByAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALmW7nW40qLQbC/yRUkyQlRlEISLFW/S247HKr0o5/e83el8HZZBbBsHAoV4VJj8wLbd5LFb623w/48tFgCrzR6bXvZHGW0u0FFUGw/Za+Gw3Q2TsshR/NsA/NpPbMbfEOjc5YSY7gA9/sth+upLSp6lcKMGmkrERulEyyfEKhhxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAEclZegxzmhsng9L6Ws0P+9y7VV8IZLMF6or705j+gBtkrQ2mL1BeSxIZlWe4k2aCJ2MW80IfLFexPcM4Z2o93YyIy9zLNY3kMLd5KjiKzfz7uW28SQMj3vD8ucEMB9T+yF1G2XBtzLQ4JL+jHU+0tiLFv1R5lSwZytwsX7Qc3us=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
